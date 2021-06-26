@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS478_P5_MusicClient</string>
+    <string-array name="song_array">
+        <item>Select a Song</item>
+        <item>SoundHelix Song 1</item>
+        <item>SoundHelix Song 2</item>
+        <item>SoundHelix Song 3</item>
+        <item>SoundHelix Song 4</item>
+        <item>SoundHelix Song 5</item>
+    </string-array>
+</resources>
+
